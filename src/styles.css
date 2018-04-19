@@ -1,0 +1,15 @@
+/* You can add global styles to this file, and also import other style files */
+nav a{
+    padding: 15px;
+    background-color: gray;
+}
+nav a.active {
+    color: aqua;
+}
+nav a:hover {
+    color:green;
+    background-color:red;
+}
+nav a:visited{
+    color: black;
+}
